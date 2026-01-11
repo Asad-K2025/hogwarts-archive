@@ -1,0 +1,6 @@
+ADD COLLECTION spellbooks.csv
+ADD STUDENT New test
+RENT 100000 111111
+SAVE COLLECTIon spellbooks3.csv
+ADD COLLECTION spellbooks3.csv
+EXIT

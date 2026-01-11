@@ -1,0 +1,4 @@
+ADD COLLECTION spellbooks.csv
+ADD COLLECTION spellbooks2.csv
+NUMBER COPIES
+EXIT

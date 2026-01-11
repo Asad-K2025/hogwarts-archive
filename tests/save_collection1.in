@@ -1,0 +1,4 @@
+ADD STUDENT Smith
+Add STUDENT MICHAEL
+SAVE save_collection1_test.csv
+EXIT

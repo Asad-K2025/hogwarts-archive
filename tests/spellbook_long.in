@@ -1,0 +1,6 @@
+SPELLBOOK 111111
+ADD collection spellbooks.csv
+SpellBook 111111 LONG
+ADD STUDENT John
+SPELLBOOK 100000
+EXIT
