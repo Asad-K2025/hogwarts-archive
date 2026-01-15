@@ -57,13 +57,11 @@ EXIT
 
 ### Object-Oriented Design
 
-This project was designed with a strong emphasis on learning Object-Oriented Programming principles. The 500 words document `Report.pdf` states how this was implemented in detail.
+This was my first structured project in Java and assisted in learning Object-Oriented Programming principles. This meant encountering getters and setters for the first time. The 500 words document `Report.pdf` states how the main principles were implemented in detail.
 
 ### Testing
 
-- Comprehensive test cases included  
-- Each command is tested with multiple scenarios  
-- Input (`.in`) and output (`.out`) files verify correctness and edge cases
+Comprehensive test cases are included in the `/tests` folder for multiple scenarios using input (`.in`) and output (`.out`) files.
 
 To run all testcases, execute: 
 ```bash
@@ -72,4 +70,7 @@ To run all testcases, execute:
 
 ### Documentation
 
-A detailed UML diagram which lists interaction between classes for the operation of this system.
+- A detailed UML (Unified Modeling Language) diagram which lists interaction between classes for this system was also created by me to understand software documentation.
+
+- Javadoc was also written for this program, and is hosted through github pages: https://asad-k2025.github.io/hogwarts-archive/package-summary.html
+
